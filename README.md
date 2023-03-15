@@ -1,7 +1,7 @@
 # LaneDetect_CarlaSimulator
 
 In this project, a lane detection algorithm has been implemented using Carla Simulator. 
-This project implements a real time object detection via video, webcam and image detection using YOLO algorithm. YOLO is a object detection algorithm which stand for You Only Look Once.
+This project implements a real time object detection using YOLO algorithm. YOLO is an object detection algorithm which stands for You Only Look Once.
 
 Yolo is a deep learning algorythm which came out on may 2016 and it became quickly so popular because it’s so fast compared with the previous deep learning algorythm. With yolo we can detect real time objects at a relatively high speed. With a GPU we would be able to process over 45 frames/second while with a CPU around a frame per second.
 
