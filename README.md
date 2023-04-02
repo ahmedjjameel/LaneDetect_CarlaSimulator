@@ -24,14 +24,8 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 
 
 
-https://user-images.githubusercontent.com/81799459/229362678-d08a8401-baea-4f16-b2f5-1343dcdabf28.mp4
+![outputgif](https://user-images.githubusercontent.com/81799459/229363381-1a9fdb8f-0d1c-4bcc-814f-4c7988c84139.gif)
 
-
-
-
-
-
-https://user-images.githubusercontent.com/81799459/229362691-040b21b9-cd27-44b5-a07a-5aa1f571e53d.mp4
 
 
 
