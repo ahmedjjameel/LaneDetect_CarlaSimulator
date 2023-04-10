@@ -8,6 +8,25 @@ Yolo is a deep learning algorythm which came out on May 2016 and it became quick
 
 OpenCV dnn module supports running inference on pre-trained deep learning models from popular frameworks like Caffe, Torch and TensorFlow.
 
+The following steps were performed for lane detection:
+
+    •	Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
+  
+    •	Apply a distortion correction to raw images.
+  
+    •	Use color transforms, gradients, etc., to create a thresholded binary image.
+  
+    •	Apply a perspective transform to rectify binary image ("birds-eye view").
+  
+    •	Detect lane pixels and fit to find the lane boundary.
+  
+    •	Determine the curvature of the lane and vehicle position with respect to center.
+  
+    •	Warp the detected lane boundaries back onto the original image.
+  
+    •	Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+
+
 
 ![ezgif com-video-to-gif---](https://user-images.githubusercontent.com/81799459/224973024-9515cab1-b538-471e-9cdf-19f690e884fc.gif)
 
