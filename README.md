@@ -20,6 +20,12 @@ The following steps were performed for lane detection:
 8.	Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
 
+## Camera calibration
+The camera was calibrated using the chessboard images in 'camera_cal/*.jpg'. The following steps were performed for each calibration image:
+1.	Convert to grayscale
+2.	Find chessboard corners with OpenCV's findChessboardCorners() function, assuming a 9x6 board
+After the above steps were executed for all calibration images, I used OpenCV's calibrateCamera() function to calculate the distortion matrices. Using the distortion matrices, I undistort images using OpenCV's undistort() function.
+
 
 
 ![ezgif com-video-to-gif---](https://user-images.githubusercontent.com/81799459/224973024-9515cab1-b538-471e-9cdf-19f690e884fc.gif)
