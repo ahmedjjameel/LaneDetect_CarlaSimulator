@@ -1,7 +1,7 @@
 ## Lane Detection using Carla Simulator
 
-![ezgif com-video-to-gif (1)](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/937ca7cd-4801-4f6c-867f-a03dbc544654)
 
+![ezgif com-resize (1)](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/31a116f9-f3ba-4067-8949-ec8983588f97)
 
 
 In this project, a lane detection algorithm has been implemented using Carla Simulator. 
