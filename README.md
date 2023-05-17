@@ -41,22 +41,7 @@ After the above steps were executed for all calibration images, I used OpenCV's 
 
 
 
-![carnew](https://user-images.githubusercontent.com/81799459/229363131-0ee308ca-7565-4876-b908-cfdd4c2d1bb3.gif)
 
 
-
-
-
-![outputgif](https://user-images.githubusercontent.com/81799459/229363381-1a9fdb8f-0d1c-4bcc-814f-4c7988c84139.gif)
-
-
-
-
-
-![gifhighway](https://user-images.githubusercontent.com/81799459/229535745-a817eb19-d920-42d1-bfef-84ee7f85232f.gif)
-
-
-
-![gifhighwayoutput](https://user-images.githubusercontent.com/81799459/229535776-2f84be7f-9719-460d-ad15-8d3f61c261eb.gif)
 
 
