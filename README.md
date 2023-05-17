@@ -1,5 +1,9 @@
 ## Lane Detection using Carla Simulator
 
+![ezgif com-video-to-gif (1)](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/937ca7cd-4801-4f6c-867f-a03dbc544654)
+
+
+
 In this project, a lane detection algorithm has been implemented using Carla Simulator. 
 This project implements a real time object detection using YOLO algorithm. YOLO is an object detection algorithm which stands for You Only Look Once.
 
