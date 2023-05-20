@@ -1,6 +1,6 @@
 ## Lane Detection using Carla Simulator
 
-![gif_5_15](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/2c72d880-82f4-47a4-939d-531bd0a6484f)  |   ![gifout_5_15](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/6257e389-95b1-4a63-bc2c-2f4f81cc7663)
+![gif_5_15](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/2c72d880-82f4-47a4-939d-531bd0a6484f)  |   ![carlaout_5_15](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/8568b243-a622-44bb-be4e-3360da3a6808)
 :-------------------------:|:-------------------------:
 
 ![ezgif com-resize (1)](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/31a116f9-f3ba-4067-8949-ec8983588f97)
