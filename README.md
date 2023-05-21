@@ -5,9 +5,8 @@
 
 ![ezgif com-resize (1)](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/31a116f9-f3ba-4067-8949-ec8983588f97)
 
-![ezgif com-video-to-gif (2)](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/28f25031-a9e3-4fdf-b78b-4a7095882677)
-
-
+![ezgif com-video-to-gif (2)](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/28f25031-a9e3-4fdf-b78b-4a7095882677) | ![ezgif com-video-to-gif](https://github.com/ahmedjjameel/LaneDetect_CarlaSimulator/assets/81799459/64286c09-2a2c-4725-a9a8-7f17aea8523b)
+:-------------------------:|:-------------------------:
 
 In this project, a lane detection algorithm has been implemented using Carla Simulator. 
 This project implements a real time object detection using YOLO algorithm. YOLO is an object detection algorithm which stands for You Only Look Once.
@@ -37,7 +36,9 @@ After the above steps were executed for all calibration images, I used OpenCV's 
 
 
 
-![ezgif com-video-to-gif---](https://user-images.githubusercontent.com/81799459/224973024-9515cab1-b538-471e-9cdf-19f690e884fc.gif)
+![ezgif com-video-to-gif---](https://user-images.githubusercontent.com/81799459/224973024-9515cab1-b538-471e-9cdf-19f690e884fc.gif) 
+
+
 
 
 
